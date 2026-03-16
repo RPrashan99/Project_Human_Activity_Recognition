@@ -1,0 +1,8 @@
+__pycache__/*
+
+video/*
+.video
+
+venv
+
+model/*
